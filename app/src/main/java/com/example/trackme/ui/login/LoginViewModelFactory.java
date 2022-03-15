@@ -4,8 +4,8 @@ import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.annotation.NonNull;
 
-import com.example.trackme.data.LoginDataSource;
-import com.example.trackme.data.LoginRepository;
+import com.example.trackme.data.login.LoginDataSource;
+import com.example.trackme.data.login.LoginRepository;
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.

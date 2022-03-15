@@ -1,4 +1,4 @@
-package com.example.trackme.data;
+package com.example.trackme.data.login;
 
 import com.example.trackme.data.model.LoggedInUser;
 

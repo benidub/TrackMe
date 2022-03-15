@@ -6,8 +6,8 @@ import androidx.lifecycle.ViewModel;
 
 import android.util.Patterns;
 
-import com.example.trackme.data.LoginRepository;
-import com.example.trackme.data.Result;
+import com.example.trackme.data.login.LoginRepository;
+import com.example.trackme.data.login.Result;
 import com.example.trackme.data.model.LoggedInUser;
 import com.example.trackme.R;
 
